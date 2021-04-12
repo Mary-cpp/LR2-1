@@ -1,29 +1,43 @@
-% rebase('layout.tpl', title='Home Page', year=year)
+% rebase('layout.tpl', title='Welcome to Bubochnaya family', year=year)
 
 <div class="jumbotron">
-    <h1>Bottle</h1>
-    <p class="lead">Bottle is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
-    <p><a href="http://bottlepy.org/docs/dev/index.html" class="btn btn-primary btn-large">Learn more &raquo;</a></p>
+     <p algin = "right" hspace = "right">'The only thing missing in cooking is your appetite.'</p>
+    <h1>About us</h1>
+    <img src="static/images/Cinnabons.jpg">
+    <p class="lead">
+    <p align="left">We work with the highest quality raw materials, without dyes and preservatives! Our bakery and confectionery products are handmade. In our assortment you can find legendary and all your favorite cakes such as potato cake, eclairs, count ruins, honey cake, classic sour cream cake and much more! 
+    <style>
+    .jumbotron{
+        background-color: #FFCC33  
+    }
+    </style>
 </div>
 
 <div class="row">
+
     <div class="col-md-4">
-        <h2>Getting started</h2>
+       <h2>Best employees</h2>
         <p>
-            Bottle gives you a powerful, patterns-based way to build dynamic websites that
-            enables a clean separation of concerns and gives you full control over markup
-            for enjoyable, agile development.
+            Our young qualified and friendly team is happy to help you enjoy the products from our menu. If you want to join us, click here (^_^)
         </p>
-        <p><a class="btn btn-default" href="http://bottlepy.org/docs/dev/index.html">Learn more &raquo;</a></p>
+        <p><a class="btn btn-default" href="/about">Join our team &raquo;</a></p>
     </div>
     <div class="col-md-4">
-        <h2>Get more libraries</h2>
-        <p>The Python Package Index is a repository of software for the Python programming language.</p>
-        <p><a class="btn btn-default" href="https://pypi.python.org/pypi">Learn more &raquo;</a></p>
+        <h2>Fresh pastry</h2>
+        <p>
+            Every morning we bake fresh bread to treat our visitors. Come and see what's new on our menu
+        </p>
+        <p><a class="btn btn-default" href="https://docs.google.com/spreadsheets/d/1_IAOobNhaUuAG5kovriPIPFrwSvmI8VCq3-9J0_URpw/edit#gid=731215286">Menu &raquo;</a></p>
     </div>
     <div class="col-md-4">
-        <h2>Microsoft Azure</h2>
-        <p>You can easily publish to Microsoft Azure using Visual Studio. Find out how you can host your application using a free trial today.</p>
-        <p><a class="btn btn-default" href="http://azure.microsoft.com">Learn more &raquo;</a></p>
+        <h2>Service</h2>
+        <p> 
+            You can enjoy sincerity and opennes of our perconal. 
+        </p>
+        <p><a class="btn btn-default" href="/about">Learn more &raquo;</a></p>
+    <style>
+        .row{
+            background-color: #FFCC33  
+        }
     </div>
 </div>
