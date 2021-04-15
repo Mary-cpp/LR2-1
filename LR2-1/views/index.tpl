@@ -20,7 +20,6 @@
         <p>
             Our young qualified and friendly team is happy to help you enjoy the products from our menu. If you want to join us, click here (^_^)
         </p>
-        <p><a class="btn btn-default" href="/about">Join our team &raquo;</a></p>
     </div>
     <div class="col-md-4">
         <h2>Fresh pastry</h2>
@@ -34,7 +33,6 @@
         <p> 
             You can enjoy sincerity and opennes of our perconal. 
         </p>
-        <p><a class="btn btn-default" href="/about">Learn more &raquo;</a></p>
     <style>
         .row{
             background-color: #FFCC33  

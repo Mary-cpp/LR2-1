@@ -3,7 +3,7 @@
 <div class="jumbotron">
     <h2>{{ 'Bubochnaya' }}</h2>
     <h3>{{ 'Contacts' }}</h3>
-
+    <img src="static/images/Cakes.jpg" width = "250" height = "250">
     <address>
         SUAI<br />
         SAINT-PETERSBURG, LED<br />
