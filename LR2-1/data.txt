@@ -1,1 +1,1 @@
-{"people": [{"mail": "alex1223@gmail.com", "question": "How was your day?"}]}
+{"question": [{"mail": "mary5@yandex.ru", "question": "cinnabons?"}, {"mail": "msoproniuk@gmail.com", "question": "how can i become a part of your community?"}]}
