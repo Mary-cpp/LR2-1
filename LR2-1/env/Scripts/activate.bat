@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=V:\C822\Mary_Soproniuk\3C\GIT\LR2-1\LR2-1\env
+set VIRTUAL_ENV=D:\GitRepos\Repos5-6\LR2-1\env
 
 if not defined PROMPT set PROMPT=$P$G
 

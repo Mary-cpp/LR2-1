@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="V:\C822\Mary_Soproniuk\3C\GIT\LR2-1\LR2-1\env"
+VIRTUAL_ENV="D:\GitRepos\Repos5-6\LR2-1\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

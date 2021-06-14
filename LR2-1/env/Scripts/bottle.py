@@ -1,4 +1,4 @@
-#!V:\C822\Mary_Soproniuk\3C\GIT\LR2-1\LR2-1\env\Scripts\python.exe
+#!D:\GitRepos\Repos5-6\LR2-1\env\Scripts\python.exe
 # -*- coding: utf-8 -*-
 """
 Bottle is a fast and simple micro-framework for small web applications. It
