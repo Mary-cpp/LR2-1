@@ -1,1 +1,1 @@
-{"question": [{"mail": "mary5@yandex.ru", "question": "cinnabons?"}, {"mail": "msoproniuk@gmail.com", "question": "how can i become a part of your community?"}]}
+{"question": [{"mail": "max_k@google.com", "question": "Can i download your menu?"}, {"mail": "polina123@mail.ru", "question": "Which vacancies do u have in your bakery?"}, {"mail": "lisaCutie@yandex.ru", "question": "Who has written your web-site?"}, {"mail": "msoproniuk@gmail.com", "question": "Where your bakery is located?"}]}

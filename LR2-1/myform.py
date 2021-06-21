@@ -23,4 +23,3 @@ def check():
         return "Thanks! The answer will be sent to the mail %s" % mail
     else:
         return "You've entered an incorrect email. Please try again with your email or create a new one"
-        
